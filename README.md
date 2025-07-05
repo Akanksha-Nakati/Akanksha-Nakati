@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## Hi, I'm Akanksha! 👋<br>
-📊 Data Analyst<br>
+📊 Marketing Analyst<br>
 👩‍🎓 I’m currently pursuing my Masters degree in Information Systems at Northeastern University <br><br>
 I'm passionate about solving real-world problems with data and technology. I love working with Python, SQL, and machine learning algorithms to turn complex datasets into actionable insights. From building predictive models to designing user-friendly web interfaces, I enjoy every step of the development process.✨
 
