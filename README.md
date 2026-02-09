@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## Hi, I'm Akanksha! 👋<br>
-📊 AI & Data Engineer<br>
+
 
 <h3 align="center">A passionate Data Engineer</h3>
 
